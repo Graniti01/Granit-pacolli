@@ -20,6 +20,10 @@ display: flex ;
 justify-content: space-between;
 
 }
+.menu a {
+
+  text-decoration: none;
+}
 
 .books {
 
