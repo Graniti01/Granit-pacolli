@@ -1,0 +1,23 @@
+.container {
+font: serif ;
+font-size:20px;
+line-height: 2em;
+color: #555;
+}
+
+h1 , h2 {
+   font: sans-serif ;
+   text-transform: uppercase ;
+   letter-spacing: 2.5em;
+   color : brown ;
+   font-weight : normal ;
+}
+
+cite {
+    background-color: #eee;
+    color: #777;
+    front font-family: ;
+
+}
+
+
